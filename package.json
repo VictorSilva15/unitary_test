@@ -1,0 +1,15 @@
+{
+  "name": "unit_testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Victor Hugo da Silva",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}
